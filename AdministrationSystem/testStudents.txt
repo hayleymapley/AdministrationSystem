@@ -1,0 +1,25 @@
+300315543
+Hayley Mapley
+SWEN501
+A
+300728936
+Oliver Pelham
+SWEN501
+A
+300253627
+Anna Hutchinson
+LING324
+B+
+300748372
+Linda Barks
+LING101
+A-
+300728493
+Samantha Wilkes
+LING220
+A+
+300475836
+Barry Crump
+LING220
+0
+
